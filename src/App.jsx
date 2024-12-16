@@ -11,7 +11,6 @@ function App() {
     <>
       <Header />
       <ButtonsSection />
-      <DescriptionSection />
     </>
   )
 }
